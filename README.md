@@ -1,6 +1,6 @@
 <div align="center">
 
-<img align="center" src="header.png" title="Looking to the sky can leave you blinded by the sun, I guess. And I lost you, somewhere along the way." width="500">
+<img align="center" src="" title="Looking to the sky can leave you blinded by the sun, I guess. And I lost you, somewhere along the way." width="500">
 <hr><p></p>
   <p style="text-align: center;">univ <em><u>@tszukasa</u></em></p>
   <p class="is-empty is-editor-empty" style="text-align: center;"><a target="_blank" rel="noopener noreferrer nofollow" href="https://pronouns.cc/@tszukasa">prncc</a>  <strong>·</strong>  <a target="_blank" rel="noopener noreferrer nofollow" href="https://badthjngs.atabook.org">ata</a></p>
